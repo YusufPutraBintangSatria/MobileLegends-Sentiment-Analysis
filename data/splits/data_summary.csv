@@ -1,0 +1,5 @@
+Rasio,Jumlah Total,Jumlah Data Latih,Jumlah Data Uji,Rasio Data Latih (%),Jumlah Klasifikasi Sentimen Data Latih,Jumlah Klasifikasi Sentimen Data Uji
+80:20,3468,2774,694,79.98846597462514,"{'Positif': 1576, 'Negatif': 1198}","{'Positif': 361, 'Negatif': 333}"
+75:25,3468,2601,867,75.0,"{'Positif': 1479, 'Negatif': 1122}","{'Positif': 458, 'Negatif': 409}"
+70:30,3468,2427,1041,69.98269896193771,"{'Positif': 1375, 'Negatif': 1052}","{'Positif': 562, 'Negatif': 479}"
+60:40,3468,2080,1388,59.976931949250286,"{'Positif': 1176, 'Negatif': 904}","{'Positif': 761, 'Negatif': 627}"
