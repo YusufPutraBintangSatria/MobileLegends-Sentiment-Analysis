@@ -152,7 +152,7 @@ Berdasarkan hasil analisis:
 
 **Yusuf Putra Bintang Satria**
 - GitHub: [@YusufPutraBintangSatria](https://github.com/YusufPutraBintangSatria)
-- LinkedIn: [Yusuf Putra Bintang Satria](linkedin.com/in/bintang-satria-data)
+- LinkedIn: [Yusuf Putra Bintang Satria](https://www.linkedin.com/in/bintang-satria-data/)
 
 ---
 
